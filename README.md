@@ -67,3 +67,17 @@ If scraping limitations occur (e.g., API rate limits or missing data), the issue
 - Python
 - google-play-scraper
 - pandas
+
+
+### 
+--- Verification Queries ---
+
+Total Reviews Per Bank:
+('BOA', 499)
+('Dashen', 498)
+('CBE', 481)
+
+Average Rating Per Bank:
+('BOA', Decimal('3.5651302605210421'))
+('Dashen', Decimal('3.9317269076305221'))
+('CBE', Decimal('4.0873180873180873'))
